@@ -14,7 +14,7 @@ Zekri Fitra Ramadhan | C2009F0934 | Universitas Gunadarma | Cloud Computing
 Muhammad Rafi Ramadhan | C7009F0926 | Universitas Gunadarma | Cloud Computing
 
 ## Our Branchs :
-- [Main]()
-- [Machine Learning Branch]() 
-- [Mobile Development Branch]()
-- [Cloud Computing Branch]()
+- [Main](https://github.com/rafi016/Recycraft-Project/tree/main)
+- [Machine Learning Branch](https://github.com/rafi016/Recycraft-Project/tree/machine-learning) 
+- [Mobile Development Branch](https://github.com/rafi016/Recycraft-Project/tree/mobile-development)
+- [Cloud Computing Branch](https://github.com/rafi016/Recycraft-Project/tree/cloud-computing)
