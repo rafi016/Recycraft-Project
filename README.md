@@ -4,14 +4,14 @@ A project used for demonstrating team collaboration.
 ## Team ID : C22-PS285
 
 ## Our Teams :
- Member | Student ID | University | Learning Path
-:---|:---|:---|:---
-Wahyu Adi Nugroho | M2007F0776 | Universitas Dian Nuswantoro | Machine Learning
-Raphael Adhimas Aryandanu Santoso | M2007F0777 | Universitas Dian Nuswantoro | Machine Learning
-Alfonda Steven Wahyudi | A2007F0724 | Universitas Dian Nuswantoro | Mobile Development
-Firstiannisa Rizki | A2009F0915 | Universitas Gunadarma | Mobile Development
-Zekri Fitra Ramadhan | C2009F0934 | Universitas Gunadarma | Cloud Computing
-Muhammad Rafi Ramadhan | C7009F0926 | Universitas Gunadarma | Cloud Computing
+ Member | Student ID | University | Learning Path | Contacs
+:---|:---|:---|:--- | :---
+Wahyu Adi Nugroho | M2007F0776 | Universitas Dian Nuswantoro | Machine Learning | [LinkedIn](https://www.linkedin.com/in/wahyuadinugroho/) or [Github](https://github.com/wahyu-adi-n)
+Raphael Adhimas Aryandanu Santoso | M2007F0777 | Universitas Dian Nuswantoro | Machine Learning | [LinkedIn]() or [Github]()
+Alfonda Steven Wahyudi | A2007F0724 | Universitas Dian Nuswantoro | Mobile Development | [LinkedIn]() or [Github]()
+Firstiannisa Rizki | A2009F0915 | Universitas Gunadarma | Mobile Development | [LinkedIn]() or [Github]()
+Zekri Fitra Ramadhan | C2009F0934 | Universitas Gunadarma | Cloud Computing | [LinkedIn]() or [Github]()
+Muhammad Rafi Ramadhan | C7009F0926 | Universitas Gunadarma | Cloud Computing | [LinkedIn]() or [Github]()
 
 ## Our Branchs :
 - [Main](https://github.com/rafi016/Recycraft-Project/tree/main)
