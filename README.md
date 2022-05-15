@@ -1,8 +1,10 @@
-# Recycraft-Project
+# RC Project
 A project used for demonstrating team collaboration.
 
-## Team ID : C22-PS285
+## About : Coming soon
 
+## Team ID : C22-PS285 
+## Team Name : RC Team
 ## Our Teams :
  Member | Student ID | University | Learning Path | Contacs
 :---|:---|:---|:--- | :---
